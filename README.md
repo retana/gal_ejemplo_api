@@ -12,4 +12,5 @@
   <li>Abrir el directorio con Visual Studio Code o cualquier IDE de su preferencia.</li>
   <li>Crear el fichero app.js (puede copiar el codigo he instalar las dependencias necesarias que aparecen en el area de imports)</li>
   <li>Para descargar una dependencia puede utiliar el siguiente comando <code>npm install --save nombredelibreriria</code></li>
+  <li>Para ejecutar el programa debera de utilizar el siguiente comando <code>node app.js</code></li>
 </ul>
